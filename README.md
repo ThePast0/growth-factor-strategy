@@ -34,9 +34,8 @@ growth-factor-strategy/
 ├── growth_factor_strategy.py
 ├── README.md
 ├── requirements.txt
-├── .gitignore
+├──output
 └── data/
-    └── growth_daily/
 ```
 
 ## 数据
